@@ -1,0 +1,1 @@
+There was an attempt to make use of the variable 'shoes'. The variable either does not exist or it is not w/in the proper scope.

@@ -1,0 +1,3 @@
+In the first case, "x" will be returned as 3 (Fixnum).
+
+In the second case, there is an error. The variable "x" is not initialized outside of the scope of the do/end block.
