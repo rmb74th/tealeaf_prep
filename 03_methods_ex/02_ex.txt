@@ -1,0 +1,9 @@
+x = 2 #--> 2 returned
+
+puts x = 2 #--> nil returned, 2 printed to console
+
+p name = "Joe" #--> "Joe" returned, "Joe" printed to console
+
+four = "four" #--> "four" returned
+
+print something = "nothing" #--> "nil" returned, "nothing" printed to console

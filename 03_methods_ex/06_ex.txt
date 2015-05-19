@@ -1,0 +1,2 @@
+A method ('calculate_product') was called that requires 2 arguments. 
+Only one was passed in this case.
