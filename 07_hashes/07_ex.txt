@@ -1,0 +1,7 @@
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+
+# the my_hash key, :x, is a symbol (cannot be changed)
+# the my_hash2 key, x is a string (value of x can change)
