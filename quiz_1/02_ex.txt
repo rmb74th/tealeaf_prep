@@ -1,0 +1,21 @@
+1. !=
+This is the "not equals" sign.
+It is use to compare one object to another
+
+2. ! before something
+Used to append a "not" - evaluated to boolean
+Turns into opposite of orignal boolean
+
+3. ! after something
+"Bang operator" -
+ When used in the context of a method it will modify the object upon which the method is called
+
+4. ? before
+The expressions following the ? will be executed depending on whether the expression precceding the ? is true.
+
+5. ? after
+Asking whether the preceeding expression evaluates to "true". 
+Used in ternary statement.
+
+6. !! before
+evaluates the object/expression/etc to true or false.

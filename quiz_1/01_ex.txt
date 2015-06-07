@@ -1,0 +1,8 @@
+numbers = [1, 2, 2, 3]
+numbers.uniq
+
+puts numbers
+
+
+This code prints the original array to the screen. 
+The .uniq method does not modify the original array
