@@ -1,0 +1,19 @@
+a_file = File.new("text_file.txt", "a+")
+
+a_file.close
+
+File.open(a_file, "w") { |x| x.write("This is the first line of text.")}
+
+File.open(a_file, "a+") do |x|
+  x << "This is the second line of text you may use to practice upon."
+end
+
+new_text = File.read(a_file)
+
+b_file = File.new("b_file.txt", "a+")
+
+File.open(b_file, "w+") do |x|
+  x << new_text
+end
+  
+File.read(b_file)
