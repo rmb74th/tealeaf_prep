@@ -1,0 +1,3 @@
+Array - values organized by index number
+
+Hash - keys with assigned values
